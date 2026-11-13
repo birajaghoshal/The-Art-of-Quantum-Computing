@@ -1,0 +1,7 @@
+feature map   range  train  test   support vectors
+angle         0.5pi  0.839  0.875    35
+ZZ, reps=2    0.5pi  0.911  0.958    32
+angle         1.0pi  0.839  0.917    29
+ZZ, reps=2    1.0pi  0.839  0.792    40
+angle         2.0pi  0.804  0.792    37
+ZZ, reps=2    2.0pi  0.732  0.375    47

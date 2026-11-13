@@ -1,0 +1,3 @@
+ISA ops: {'rz': 6, 'sx': 3, 'measure': 2, 'cz': 1, 'if_else': 1}
+Counts (c1 c0): {'00': 1869, '01': 2006, '10': 68, '11': 57}
+Fraction with q1 = 0: 0.9688

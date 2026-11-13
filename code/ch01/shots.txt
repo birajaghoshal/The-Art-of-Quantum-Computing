@@ -1,0 +1,5 @@
+   N   predicted SE   measured SE   one estimate
+   100   0.0458         0.0447        0.2500
+  1000   0.0145         0.0148        0.3170
+ 10000   0.0046         0.0046        0.3017
+shots for SE = 0.01 at p = 0.5: 2500

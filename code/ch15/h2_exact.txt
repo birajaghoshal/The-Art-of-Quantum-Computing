@@ -1,0 +1,10 @@
+  II: -1.052373
+  IZ:  0.397937
+  ZI: -0.397937
+  ZZ: -0.011280
+  XX:  0.180931
+electronic eigenvalues: [-1.85728 -1.24458 -0.88272 -0.22491]
+ground total energy      : -1.137306 Ha
+Hartree-Fock total energy: -1.116999 Ha
+correlation energy       : -0.020307 Ha
+ground state: P(01) = 0.9876, P(10) = 0.0124

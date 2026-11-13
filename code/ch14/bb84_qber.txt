@@ -1,0 +1,3 @@
+Eve intercepts 0.0: sifted  962  QBER 0.000  (theory 0.000)
+Eve intercepts 0.5: sifted 1000  QBER 0.117  (theory 0.125)
+Eve intercepts 1.0: sifted 1016  QBER 0.237  (theory 0.250)

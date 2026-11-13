@@ -1,0 +1,5 @@
+Y: unitary = True   Hermitian = True
+H: unitary = True   Hermitian = True
+S: unitary = True   Hermitian = False
+M: unitary = False  Hermitian = False
+|psi| = 1.0000, |S psi| = 1.0000, |M psi| = 1.2806

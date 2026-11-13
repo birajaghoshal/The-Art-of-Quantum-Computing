@@ -1,0 +1,2 @@
+mean depth per level: [254.7 164.7 135.  127.3]
+mean CZ per level:    [92. 69. 46. 46.]

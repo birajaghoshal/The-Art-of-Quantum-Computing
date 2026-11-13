@@ -1,0 +1,7 @@
+θ =  0.000  RX: P(1) = 0.000  theory 0.000   RZ: P(1) = 0.000
+θ =  1.178  RX: P(1) = 0.290  theory 0.309   RZ: P(1) = 0.000
+θ =  3.142  RX: P(1) = 1.000  theory 1.000   RZ: P(1) = 0.000
+θ =  5.105  RX: P(1) = 0.310  theory 0.309   RZ: P(1) = 0.000
+θ =  9.425  RX: P(1) = 1.000  theory 1.000   RZ: P(1) = 0.000
+θ = 11.781  RX: P(1) = 0.158  theory 0.146   RZ: P(1) = 0.000
+saved figures/ch06/rx-sweep.pdf

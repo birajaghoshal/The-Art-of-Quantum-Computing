@@ -1,0 +1,4 @@
+M =  1: average calls  51.7,  sqrt(N/M) = 32.0,  classical 512.5
+M =  4: average calls  26.4,  sqrt(N/M) = 16.0,  classical 205.0
+M = 16: average calls  12.7,  sqrt(N/M) =  8.0,  classical  60.3
+M = 64: average calls   5.8,  sqrt(N/M) =  4.0,  classical  15.8

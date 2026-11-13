@@ -1,0 +1,7 @@
+CX CX CX equals SWAP: True
+iSWAP matrix:
+[[1.+0.j 0.+0.j 0.+0.j 0.+0.j]
+ [0.+0.j 0.+0.j 0.+1.j 0.+0.j]
+ [0.+0.j 0.+1.j 0.+0.j 0.+0.j]
+ [0.+0.j 0.+0.j 0.+0.j 1.+0.j]]
+SWAP + CZ + S.S equals iSWAP: True

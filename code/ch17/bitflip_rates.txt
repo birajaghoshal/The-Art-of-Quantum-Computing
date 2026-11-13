@@ -1,0 +1,6 @@
+p = 0.02: logical 0.00133  (theory 0.00118)
+p = 0.05: logical 0.00820  (theory 0.00725)
+p = 0.10: logical 0.02593  (theory 0.02800)
+p = 0.20: logical 0.10527  (theory 0.10400)
+p = 0.30: logical 0.20973  (theory 0.21600)
+p = 0.50: logical 0.50207  (theory 0.50000)

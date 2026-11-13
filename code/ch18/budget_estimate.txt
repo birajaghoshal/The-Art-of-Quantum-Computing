@@ -1,0 +1,4 @@
+default repetition delay: 250 us
+ 6 qubits,   1 circuit(s) x 4000: 2.12 us, floor   1.0 s ( 0.2%)
+ 6 qubits,  30 circuit(s) x 4000: 2.12 us, floor  30.3 s ( 5.0%)
+20 qubits, 100 circuit(s) x 8000: 3.64 us, floor 202.9 s (33.8%)

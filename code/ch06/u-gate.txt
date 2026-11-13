@@ -1,0 +1,8 @@
+U(pi/2, 0, pi)    == H         True
+U(pi, 0, pi)      == X         True
+U(0, 0, lam)      == P(lam)    True
+U(t, 0, 0)        == RY(t)     True
+U(t, -pi/2, pi/2) == RX(t)     True
+U(0.8,0.3,0.5) =
+[[ 0.921+0.j    -0.342-0.187j]
+ [ 0.372+0.115j  0.642+0.661j]]

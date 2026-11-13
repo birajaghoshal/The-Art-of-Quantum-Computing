@@ -1,0 +1,4 @@
+qubits with 1 neighbour(s): 8
+qubits with 2 neighbour(s): 100
+qubits with 3 neighbour(s): 48
+average degree: 2.256

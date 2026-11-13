@@ -1,0 +1,5 @@
+ 2 CX gates: coherent 1-F = 0.0080   twirled 1-F = 0.0049
+10 CX gates: coherent 1-F = 0.1857   twirled 1-F = 0.0216
+20 CX gates: coherent 1-F = 0.5891   twirled 1-F = 0.0445
+30 CX gates: coherent 1-F = 0.8866   twirled 1-F = 0.0654
+40 CX gates: coherent 1-F = 0.8704   twirled 1-F = 0.0846

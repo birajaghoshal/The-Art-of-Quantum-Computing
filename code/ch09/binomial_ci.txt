@@ -1,0 +1,3 @@
+Predicted P(1) = 0.3188
+correct   p_hat=0.334  CI=[0.305, 0.364]  PASS
+bug (/2)  p_hat=0.094  CI=[0.077, 0.114]  FAIL

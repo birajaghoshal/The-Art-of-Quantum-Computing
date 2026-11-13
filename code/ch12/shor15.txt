@@ -1,0 +1,7 @@
+00000000 k =   0 (494 shots) ->   0: r = None, with multiples r = 4
+01000000 k =  64 (472 shots) -> 1/4: r = 4, with multiples r = 4
+10000000 k = 128 (530 shots) -> 1/2: r = None, with multiples r = 4
+11000000 k = 192 (504 shots) -> 3/4: r = 4, with multiples r = 4
+shots giving a factor, denominator only: 976/2000
+shots giving a factor, with multiples:   2000/2000
+factors: (3, 5)

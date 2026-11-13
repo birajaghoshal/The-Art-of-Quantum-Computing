@@ -1,0 +1,4 @@
+oracle diagonal: [ 1.  1.  1.  1.  1.  1. -1.  1.]
+oracle is diagonal: True
+diffuser equiv 2|s><s| - I: True
+exactly equal: False | equal to minus it: True

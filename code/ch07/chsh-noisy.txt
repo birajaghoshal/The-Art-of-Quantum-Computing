@@ -1,0 +1,4 @@
+Physical qubits used: [0, 1]
+Correlators: [ 0.6808  0.6975  0.7032 -0.6943]
+noisy S = 2.7758  (ideal 2.8284, classical 2)
+standard error per correlator = 0.010

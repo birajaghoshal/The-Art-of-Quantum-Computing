@@ -1,0 +1,8 @@
+x = 000  f(x) = 0  sign = +1
+x = 001  f(x) = 0  sign = +1
+x = 010  f(x) = 1  sign = -1
+x = 011  f(x) = 0  sign = +1
+x = 100  f(x) = 1  sign = -1
+x = 101  f(x) = 1  sign = -1
+x = 110  f(x) = 0  sign = +1
+x = 111  f(x) = 1  sign = -1

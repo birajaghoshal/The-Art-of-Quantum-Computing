@@ -1,0 +1,4 @@
+no error : syndrome {'00': 100}  data {'111': 100}
+X on d0  : syndrome {'01': 100}  data {'111': 100}
+X on d1  : syndrome {'11': 100}  data {'111': 100}
+X on d2  : syndrome {'10': 100}  data {'111': 100}

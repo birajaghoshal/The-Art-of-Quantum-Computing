@@ -1,0 +1,12 @@
+Qubits: 156
+Operations: cz, delay, for_loop, id, if_else, measure
+            reset, rz, switch_case, sx, x
+Connected pairs: 176
+Qubits with 1, 2, 3 neighbours: [8, 100, 48]
+Neighbours of qubit 3: [2, 4, 16]
+Shortest path 0 -> 20: NodeIndices[0, 1, 2, 3, 16, 23, 22, 21, 20]
+CZ error on (3, 4): 0.0043
+SX error on 3:      0.00024
+Readout error on 3: 0.0159
+Is 'h' native? False
+Is 'cx' native? False

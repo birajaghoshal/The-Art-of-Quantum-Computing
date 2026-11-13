@@ -1,0 +1,4 @@
+sent 00: ideal {'00': 1000}  noisy success 0.977
+sent 01: ideal {'01': 1000}  noisy success 0.960
+sent 10: ideal {'10': 1000}  noisy success 0.959
+sent 11: ideal {'11': 1000}  noisy success 0.955

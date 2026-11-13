@@ -1,0 +1,2 @@
+n =  4: classical     5.2   quantum  4.48
+n = 16: classical   322.3   quantum 16.61

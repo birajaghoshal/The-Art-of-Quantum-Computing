@@ -1,0 +1,4 @@
+f(x)=0      counts = {'0': 500}  ->  constant
+f(x)=1      counts = {'0': 500}  ->  constant
+f(x)=x      counts = {'1': 500}  ->  balanced
+f(x)=NOT x  counts = {'1': 500}  ->  balanced

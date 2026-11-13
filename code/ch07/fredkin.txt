@@ -1,0 +1,7 @@
+Decomposition equals Fredkin: True
+input (y x c) -> output (y x c)
+      010     ->      010
+      011     ->      101
+      100     ->      100
+      101     ->      011
+      111     ->      111

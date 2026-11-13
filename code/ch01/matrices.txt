@@ -1,0 +1,10 @@
+X v = [0.8 0.6]   Z v = [ 0.6 -0.8]
+X Z =
+ [[ 0 -1]
+ [ 1  0]]
+Z X =
+ [[ 0  1]
+ [-1  0]]
+XZ equals ZX?  False
+XZ equals -ZX? True
+(X Z) v = [-0.8  0.6]  X (Z v) = [-0.8  0.6]

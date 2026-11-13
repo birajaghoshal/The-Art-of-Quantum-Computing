@@ -1,0 +1,5 @@
+<Z> exact            = -0.2800
+<X> exact            = +0.0000
+<Y> exact            = +0.9600
+<Z> from 4000 shots = -0.2905  (SE 0.0151)
+<Y> from 4000 shots = +0.9595  (SE 0.0045)

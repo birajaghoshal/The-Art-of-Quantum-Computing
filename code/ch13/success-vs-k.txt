@@ -1,0 +1,7 @@
+k =  0: theory 0.0313, measured 0.024
+k =  2: theory 0.6024, measured 0.596
+k =  4: theory 0.9992, measured 0.999
+k =  6: theory 0.5459, measured 0.549
+k =  8: theory 0.0145, measured 0.012
+k = 10: theory 0.3098, measured 0.319
+k = 12: theory 0.9290, measured 0.938

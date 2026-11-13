@@ -1,0 +1,6 @@
+real_amplitudes (4 par.): E = -1.137305 Ha
+  error = 2.0e-10 Ha, energy calls = 67
+  optimal parameters: [ 0.3267 -0.8082  3.3818  0.8353]
+one-parameter ansatz: E = -1.137305 Ha
+  error = 5.6e-10 Ha, energy calls = 23
+  optimal parameters: [-0.2235]

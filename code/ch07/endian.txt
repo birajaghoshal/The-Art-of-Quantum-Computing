@@ -1,0 +1,6 @@
+Probabilities: {'011': 1.0}
+Index of the nonzero amplitude: 3
+Counts: {'011': 100}
+qubit 0 reads 1
+qubit 1 reads 1
+qubit 2 reads 0

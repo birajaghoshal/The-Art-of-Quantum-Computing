@@ -1,0 +1,6 @@
+ 1 steps: light cone   4 of 100 qubits, full circuit   99 RZZ gates
+ 2 steps: light cone   8 of 100 qubits, full circuit  198 RZZ gates
+ 4 steps: light cone  16 of 100 qubits, full circuit  396 RZZ gates
+ 8 steps: light cone  32 of 100 qubits, full circuit  792 RZZ gates
+16 steps: light cone  64 of 100 qubits, full circuit 1584 RZZ gates
+32 steps: light cone 100 of 100 qubits, full circuit 3168 RZZ gates

@@ -1,0 +1,7 @@
+no error           : fidelity 1.0000
+X on any qubit     : worst fidelity 1.0000
+Y on any qubit     : worst fidelity 1.0000
+Z on any qubit     : worst fidelity 1.0000
+two errors X0 + X3 : fidelity 1.0000
+two errors X0 + X1 : fidelity 0.2549
+two errors Z0 + Z3 : fidelity 0.6321

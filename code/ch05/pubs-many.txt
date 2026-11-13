@@ -1,0 +1,4 @@
+number of PUB results: 3
+PUB 0: shots=100  counts={'0': 57, '1': 43}
+PUB 1: shots= 40  counts={'1': 40}
+PUB 2: shots=250  counts={'0': 134, '1': 116}

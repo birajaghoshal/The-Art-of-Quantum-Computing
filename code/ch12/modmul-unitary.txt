@@ -1,0 +1,4 @@
+unitary: True
+orbit of 1: [1, 7, 4, 13] -> order r = 4
+eigenvalue = 0.0000+1.0000j, phase = 0.2500
+amplitudes on [1, 7, 4, 13] : [1. 0. 0. 0.]

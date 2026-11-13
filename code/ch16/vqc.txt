@@ -1,0 +1,4 @@
+parameter order: ['w[0]', 'w[1]', 'w[2]', 'w[3]', 'w[4]', 'w[5]', 'x[0]', 'x[1]']
+loss: start 2.3197, end 0.5018, evaluations 150
+train accuracy 0.839
+test accuracy  0.958

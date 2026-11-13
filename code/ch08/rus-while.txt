@@ -1,0 +1,4 @@
+Data counts: {'00': 995, '01': 1013, '10': 992}
+Final flags: {'0': 3000}
+Purity of data qubits: 1.0000
+Fidelity with target: 1.0000

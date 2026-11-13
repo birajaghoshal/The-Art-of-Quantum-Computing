@@ -1,0 +1,9 @@
+x = 853/1024 = 0.833008
+terms: [0, 1, 4, 1, 84, 2]
+  convergent         0  error 0.833008
+  convergent         1  error 0.166992
+  convergent       4/5  error 0.033008
+  convergent       5/6  error 0.000326
+  convergent   424/509  error 0.000002
+  convergent  853/1024  error 0.000000
+limit_denominator(21): 5/6

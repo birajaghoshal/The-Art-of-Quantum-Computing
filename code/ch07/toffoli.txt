@@ -1,0 +1,3 @@
+Decomposition equals Toffoli: True
+Gate counts: {'cx': 6, 'h': 2, 't': 4, 'tdg': 3}
+Depth: 11

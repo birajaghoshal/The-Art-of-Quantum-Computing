@@ -1,0 +1,2 @@
+Bloch vector: [ 0.    0.96 -0.28]
+saved figures/ch02/bloch_qiskit.pdf

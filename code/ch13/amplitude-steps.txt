@@ -1,0 +1,5 @@
+     start: marked +0.3536, others +0.3536, mean +0.3536, P(110) = 0.1250
+  oracle 1: marked -0.3536, others +0.3536, mean +0.2652, P(110) = 0.1250
+diffuser 1: marked +0.8839, others +0.1768, mean +0.2652, P(110) = 0.7812
+  oracle 2: marked -0.8839, others +0.1768, mean +0.0442, P(110) = 0.7812
+diffuser 2: marked +0.9723, others -0.0884, mean +0.0442, P(110) = 0.9453

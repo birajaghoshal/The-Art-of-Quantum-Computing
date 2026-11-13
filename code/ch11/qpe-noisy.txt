@@ -1,0 +1,5 @@
+ t  ideal answer  cz gates  depth  P(answer), noisy
+ 3  001                 21     86  0.917
+ 4  0010                44    129  0.851
+ 5  00100               64    206  0.800
+ 6  001000             101    277  0.695

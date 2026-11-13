@@ -1,0 +1,3 @@
+after transpiling: depth 157, CZ gates 52
+ideal    mean cut = 5.322, P(cut = 6) = 0.589
+FakeFez  mean cut = 5.091, P(cut = 6) = 0.515

@@ -1,0 +1,10 @@
+n = 4: a deterministic algorithm may need 9 queries
+k queries | P(balanced f looks constant)
+        2 | 0.4667
+        3 | 0.2000
+        4 | 0.0769
+        5 | 0.0256
+        6 | 0.0070
+        7 | 0.0014
+        8 | 0.0002
+        9 | 0.0000

@@ -1,0 +1,10 @@
+S   = diag(1, exp(i*(1/2)*pi))
+Sdg = diag(1, exp(i*(-1/2)*pi))
+T   = diag(1, exp(i*(1/4)*pi))
+Tdg = diag(1, exp(i*(-1/4)*pi))
+S = P(pi/2): True
+T = P(pi/4): True
+T T = S:     True
+S S = Z:     True
+S Sdg = I:   True
+T^8 = I:     True

@@ -1,0 +1,9 @@
+qubits           amplitudes     memory
+    10                1,024     16 KiB
+    20            1,048,576     16 MiB
+    30        1,073,741,824     16 GiB
+    40    1,099,511,627,776     16 TiB
+    50 1,125,899,906,842,624     16 PiB
+
+20-qubit Statevector uses 16 MiB
+Largest n that fits in 16 GiB: 30

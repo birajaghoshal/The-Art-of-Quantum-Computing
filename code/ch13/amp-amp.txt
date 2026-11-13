@@ -1,0 +1,7 @@
+P(good) from A alone: 0.0681  (repeat A about 14.7 times classically)
+best k: 2
+k = 0: P(good) = 0.0681, formula 0.0681
+k = 1: P(good) = 0.5066, formula 0.5066
+k = 2: P(good) = 0.9384, formula 0.9384
+k = 3: P(good) = 0.9251, formula 0.9251
+k = 4: P(good) = 0.4802, formula 0.4802

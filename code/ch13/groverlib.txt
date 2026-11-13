@@ -1,0 +1,5 @@
+N =    4, M = 1: best k =  1, P(success) = 1.0000
+N =    8, M = 1: best k =  2, P(success) = 0.9453
+N =   16, M = 1: best k =  3, P(success) = 0.9613
+N =   16, M = 3: best k =  1, P(success) = 0.9492
+N = 1024, M = 1: best k = 25, P(success) = 0.9995

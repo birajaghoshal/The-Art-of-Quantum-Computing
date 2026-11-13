@@ -1,0 +1,2 @@
+Sandwich equals CX(1,0): True
+Sandwich equals CX(0,1): False

@@ -1,0 +1,6 @@
+ n  chain depth  tree depth  same state?
+ 3            3           3  True
+ 4            4           3  True
+ 8            8           4  True
+16           16           5  True
+Nonzero amplitudes for n = 4: {'0000': 0.707, '1111': 0.707}

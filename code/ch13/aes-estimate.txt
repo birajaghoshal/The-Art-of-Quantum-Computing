@@ -1,0 +1,5 @@
+assumed time per iteration: 1e-06 s
+key bits  iterations       1 machine    1e6 machines
+     128    1.45e+19    4.59e+05 yrs    4.59e+02 yrs
+     192    6.22e+28    1.97e+15 yrs    1.97e+12 yrs
+     256    2.67e+38    8.47e+24 yrs    8.47e+21 yrs

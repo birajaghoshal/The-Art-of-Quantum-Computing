@@ -1,0 +1,8 @@
+wait     0 us: P(1) = 0.9555
+wait    60 us: P(1) = 0.4555
+wait   120 us: P(1) = 0.2360
+wait   180 us: P(1) = 0.1270
+wait   240 us: P(1) = 0.0705
+wait   300 us: P(1) = 0.0450
+fitted T1        : 78.6 +/- 1.5 us (true 80.0)
+fitted a, b      : 0.926, 0.033

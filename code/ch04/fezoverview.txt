@@ -1,0 +1,8 @@
+Backend name:      fake_fez
+Number of qubits:  156
+Operations:        cz, delay, for_loop, id, if_else, measure
+                   reset, rz, switch_case, sx, x
+Basis gates:       ['cz', 'id', 'rz', 'sx', 'x']
+Directed pairs:    352
+Physical links:    176
+Time step dt (ns): 4.0

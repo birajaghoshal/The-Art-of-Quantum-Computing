@@ -1,0 +1,7 @@
+H = [[1.0, 1.0], [1.0, -1.0]] / sqrt(2)
+H|0> = |+>: True    H|0> = |->: False
+H|1> = |+>: False   H|1> = |->: True
+H H = I:   True
+H Z H = X: True
+H X H = Z: True
+|+> measured in X basis: P(0) = 1.000, P(1) = 0.000

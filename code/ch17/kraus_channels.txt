@@ -1,0 +1,6 @@
+channel       #K  sum K^+K=I   |+> Bloch (x,z)  |1> z
+bit flip       2  True        (+1.000, +0.000)   -0.600
+phase flip     2  True        (+0.600, +0.000)   -1.000
+depolarising   4  True        (+0.800, +0.000)   -0.800
+amp. damping   2  True        (+0.894, +0.200)   -0.600
+thermal        3  True        (+0.779, +0.181)   -0.637

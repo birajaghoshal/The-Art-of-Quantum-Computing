@@ -1,0 +1,2 @@
+fitted T2        : 58.3 +/- 1.2 us (true 60.0)
+fitted detuning  : 39.99 kHz (set 40.00)

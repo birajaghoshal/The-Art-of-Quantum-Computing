@@ -1,0 +1,2 @@
+grid points classified: 2025
+kernel entries computed for the grid: 113400

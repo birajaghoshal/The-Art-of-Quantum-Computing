@@ -1,0 +1,9 @@
+scale 1:   9 CX gates, <ZZZZ> = 0.5535
+scale 3:  27 CX gates, <ZZZZ> = 0.4150
+scale 5:  45 CX gates, <ZZZZ> = 0.3201
+scale 7:  63 CX gates, <ZZZZ> = 0.2411
+ideal value         : 0.6316
+unmitigated         : 0.5535
+ZNE linear, 1-3     : 0.6228
+ZNE quadratic, 1-5  : 0.6391
+ZNE exponential, 1-7: 0.6328

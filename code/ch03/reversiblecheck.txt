@@ -1,0 +1,4 @@
+AND (2 in, 1 out)  reversible: False
+CNOT               reversible: True
+AND kept inputs    reversible: True
+Toffoli            reversible: True

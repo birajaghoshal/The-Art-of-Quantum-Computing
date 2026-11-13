@@ -1,0 +1,4 @@
+Before: {'measure': 2, 'h': 1, 'cx': 1, 'barrier': 1}
+After:  {'rz': 6, 'sx': 3, 'measure': 2, 'cz': 1, 'barrier': 1}
+Width before/after: 2 / 156
+Virtual -> physical: [0, 1]

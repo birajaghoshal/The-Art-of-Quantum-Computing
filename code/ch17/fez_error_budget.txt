@@ -1,0 +1,6 @@
+median T1            :  144.9 us
+median T2            :   88.0 us
+median sx       error: 0.00023   duration:    24 ns
+median cz       error: 0.00382   duration:    84 ns
+median measure  error: 0.00757   duration:  1560 ns
+CZ gates per T2      : 1047

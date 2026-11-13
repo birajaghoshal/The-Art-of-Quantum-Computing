@@ -1,0 +1,6 @@
+init         11 passes, first: UnitarySynthesis
+layout        5 passes, first: SetLayout
+routing       6 passes, first: CheckMap
+translation   3 passes, first: UnitarySynthesis
+optimization 15 passes, first: TwoQubitPeepholeOptimization
+scheduling    4 passes, first: ContainsInstruction

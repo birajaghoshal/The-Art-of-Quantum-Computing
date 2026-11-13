@@ -1,0 +1,3 @@
+a line [4,5,6,7]     cz =  3, depth =  16, final = [4, 5, 6, 7]
+a branch [2,3,4,16]  cz =  6, depth =  22, final = [2, 16, 4, 3]
+spread [0,20,40,60]  cz = 48, depth =  79, final = [22, 36, 63, 62]

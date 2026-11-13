@@ -1,0 +1,3 @@
+ideal: {'10': 978, '11': 1022}
+noisy: {'00': 12, '01': 11, '10': 991, '11': 986}
+saved figures/ch05/histogram-compare.pdf

@@ -1,0 +1,3 @@
+n = 2, target 10, k = 1: most frequent 10, 1000/1000 hits (theory 1.0000)
+n = 3, target 110, k = 2: most frequent 110, 941/1000 hits (theory 0.9453)
+n = 4, target 1011, k = 3: most frequent 1011, 965/1000 hits (theory 0.9613)

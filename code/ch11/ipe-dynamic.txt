@@ -1,0 +1,7 @@
+ideal counts: {'1101': 1000}
+theta estimate = 0.1101 (binary) = 0.8125
+ISA ops: {'rz': 37, 'sx': 22, 'cz': 8, 'if_else': 6, 'measure': 4, 'reset': 3}
+noisy 1101   1759  (0.879)
+noisy 0101     56  (0.028)
+noisy 0001     45  (0.022)
+noisy 1111     29  (0.015)

@@ -1,0 +1,3 @@
+evs shape: (2, 41)
+θ = π/2:  <Z> = +0.0000  <X> = +1.0000
+saved figures/ch05/estimator-sweep.pdf

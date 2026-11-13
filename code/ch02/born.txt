@@ -1,0 +1,9 @@
+state [0.6, 0.8]
+  Z basis: P(first) = 0.3600, P(second) = 0.6400
+  X basis: P(first) = 0.9800, P(second) = 0.0200
+  Y basis: P(first) = 0.5000, P(second) = 0.5000
+state [0.6, 0.8j]
+  Z basis: P(first) = 0.3600, P(second) = 0.6400
+  X basis: P(first) = 0.5000, P(second) = 0.5000
+  Y basis: P(first) = 0.9800, P(second) = 0.0200
+via H, then Z  : [0.98 0.02]

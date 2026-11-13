@@ -1,0 +1,8 @@
+Alice bits    1111111001001110
+Alice bases   xx+x+x++x++xxxx+
+Bob bases     xxxxx++x+x+x+x++
+Bob bits      1111101011000110
+Sifted key    11.1..1...00.1.0
+Eve=off: sifted 991 of 2000, errors 0, QBER 0.000
+Eve=on : sifted 991 of 2000, errors 260, QBER 0.262
+         Eve's copy agrees with Alice on 0.762 of the sifted bits

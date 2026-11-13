@@ -1,0 +1,8 @@
+|0>            out = [1. 0. 0. 0.]
+               fidelity with a perfect copy = 1.0000
+|1>            out = [0. 0. 0. 1.]
+               fidelity with a perfect copy = 1.0000
+|+>            out = [0.707 0.    0.    0.707]
+               fidelity with a perfect copy = 0.5000
+0.6|0>+0.8|1>  out = [0.6 0.  0.  0.8]
+               fidelity with a perfect copy = 0.5300

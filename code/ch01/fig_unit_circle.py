@@ -1,0 +1,38 @@
+# Draw the unit circle with one angle, its cosine and its sine
+import numpy as np
+import matplotlib.pyplot as plt
+
+plt.rcParams.update({"font.size": 10})
+t = np.linspace(0, 2 * np.pi, 400)
+a = 1.0                                   # the highlighted angle (rad)
+px, py = np.cos(a), np.sin(a)
+
+fig, ax = plt.subplots(figsize=(4.4, 4.0))
+ax.plot(np.cos(t), np.sin(t), color="#1F5FBF", lw=1.8)
+ax.axhline(0, color="0.6", lw=0.8)
+ax.axvline(0, color="0.6", lw=0.8)
+ax.plot([0, px], [0, py], color="#7B4FBF", lw=1.8)
+ax.plot([px, px], [0, py], color="#D64545", lw=1.6, ls="--")
+ax.plot([0, px], [0, 0], color="#0F9D8C", lw=3)
+ax.plot(px, py, "o", color="#7B4FBF")
+arc = np.linspace(0, a, 50)
+ax.plot(0.25 * np.cos(arc), 0.25 * np.sin(arc), color="#F28C28")
+ax.text(0.3, 0.12, r"$\theta$", color="#F28C28")
+ax.text(px / 2 - 0.12, -0.13, r"$\cos\theta$", color="#0F9D8C")
+ax.text(px + 0.04, py / 2, r"$\sin\theta$", color="#D64545")
+ax.text(px + 0.05, py + 0.05, r"$(\cos\theta,\ \sin\theta)$")
+for deg in [90, 180, 270]:
+    r = np.deg2rad(deg)
+    ax.plot(np.cos(r), np.sin(r), "o", color="#1F5FBF", ms=4)
+ax.text(0.03, 1.06, r"$\pi/2$")
+ax.text(-1.25, 0.05, r"$\pi$")
+ax.text(0.03, -1.15, r"$3\pi/2$")
+ax.text(1.04, 0.05, r"$0$")
+ax.set_xlim(-1.35, 1.6)
+ax.set_ylim(-1.3, 1.3)
+ax.set_aspect("equal")
+ax.set_xlabel("x")
+ax.set_ylabel("y")
+fig.tight_layout()
+fig.savefig("figures/ch01/unit_circle.pdf", bbox_inches="tight")
+print("saved figures/ch01/unit_circle.pdf")

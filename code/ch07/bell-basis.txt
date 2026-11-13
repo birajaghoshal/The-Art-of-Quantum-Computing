@@ -1,0 +1,4 @@
+prepared Phi+  -> measured {'00': 500}
+prepared Phi-  -> measured {'01': 500}
+prepared Psi+  -> measured {'10': 500}
+prepared Psi-  -> measured {'11': 500}

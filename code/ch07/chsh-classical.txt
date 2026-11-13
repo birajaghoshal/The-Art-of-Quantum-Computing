@@ -1,0 +1,4 @@
+winning example: a = (1,1), b = (1,1)
+winning example: a = (1,1), b = (1,-1)
+strategies tried: 16, largest S: 2
+Win probability of the best strategy: 0.75

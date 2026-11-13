@@ -1,0 +1,3 @@
+QFTGate inverse      {'100': 200}
+no swaps, reversed   {'100': 200}
+no swaps, mismatched {'001': 90, '011': 19, '101': 13, '111': 78}

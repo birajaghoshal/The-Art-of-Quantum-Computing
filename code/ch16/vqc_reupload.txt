@@ -1,0 +1,4 @@
+weights: 12, loss evaluations: 300
+loss: start 1.7063, end 0.2872
+train accuracy 0.929
+test accuracy  1.000

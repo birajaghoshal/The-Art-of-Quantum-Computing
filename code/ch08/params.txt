@@ -1,0 +1,8 @@
+Parameter order: ['phi', 'theta']
+Parameters left after binding: 0
+ISA circuit still has: ['phi', 'theta']
+theta = 0.000, phi = 0.000  ->  <XX> = +0.000
+theta = 1.571, phi = 0.000  ->  <XX> = +1.000
+theta = 1.571, phi = 1.047  ->  <XX> = +0.500
+theta = 1.571, phi = 1.571  ->  <XX> = +0.000
+theta = 3.142, phi = 0.000  ->  <XX> = +0.000

@@ -1,0 +1,3 @@
+theta = 0.25 pi  ->  S = 0.601 bits
+theta = 0.50 pi  ->  S = 1.000 bits
+theta = 1.00 pi  ->  S = 0.000 bits

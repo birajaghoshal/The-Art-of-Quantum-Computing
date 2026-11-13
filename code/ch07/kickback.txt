@@ -1,0 +1,2 @@
+target |0>: P(t=1) = 0.000, purity(c) = 1.000, phase(c) = 0.000 pi
+target |1>: P(t=1) = 1.000, purity(c) = 1.000, phase(c) = 0.500 pi

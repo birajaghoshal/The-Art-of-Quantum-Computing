@@ -1,0 +1,5 @@
+run  1: y = 1010  ->  s3 + s1 = 0
+run  2: y = 1110  ->  s3 + s2 + s1 = 0
+run  3: y = 1101  ->  s3 + s2 + s0 = 0
+reduced rows: ['1001', '0100', '0011']
+recovered s = 1011  true s = 1011

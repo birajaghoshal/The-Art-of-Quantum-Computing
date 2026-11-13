@@ -1,0 +1,10 @@
+z + w     = (4+2j)
+z * w     = (11-2j)
+z / w     = (-1+2j)
+conj(z)   = (3-4j)
+|z|       = 5.0
+z conj(z) = (25+0j)
+polar     : r = 5.0000, phi = 0.9273 rad
+rebuilt   = (3+4j)
+sqrt of real   -4: [nan]  dtype float64
+sqrt of complex -4: [0.+2.j]  dtype complex128

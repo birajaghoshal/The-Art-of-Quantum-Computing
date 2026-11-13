@@ -1,0 +1,12 @@
+eigenvalues : [1. 3.]
+eigenvectors (columns):
+ [[-0.7071  0.7071]
+ [ 0.7071  0.7071]]
+A v0 = 1 v0? True
+A v1 = 3 v1? True
+rebuilt from eigen-pieces:
+ [[2. 1.]
+ [1. 2.]]
+eigenvalues of R(0.7): [0.7648+0.6442j 0.7648-0.6442j]
+their moduli         : [1. 1.]
+their angles         : [ 0.7 -0.7]

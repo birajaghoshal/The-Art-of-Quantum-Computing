@@ -1,0 +1,7 @@
+original: 10 gates: h t h h tdg s x rz y sdg
+after:    3 gates: rz sx rz
+equivalent: True
+global phase: 5π/4
+   ┌─────────┐┌────┐┌───────────┐
+q: ┤ Rz(π/2) ├┤ √X ├┤ Rz(-5π/6) ├
+   └─────────┘└────┘└───────────┘

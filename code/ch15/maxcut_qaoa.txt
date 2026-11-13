@@ -1,0 +1,5 @@
+maximum cut: 6 of 7 edges
+optimal strings (q4...q0): ['01101', '10010']
+strings per cut value: {0: 2, 2: 2, 3: 12, 4: 10, 5: 4, 6: 2}
+average cut of a random string: 3.5
+parameter order: ['b[0]', 'g[0]']

@@ -1,0 +1,8 @@
+RX(0.9) == exp(-i 0.9 X / 2): True
+RY(0.9) == exp(-i 0.9 Y / 2): True
+RZ(0.9) == exp(-i 0.9 Z / 2): True
+RX(pi) == X:        False
+RX(pi) == -i X:     True
+RX(pi) equiv X:     True
+RX(2 pi) == -I:     True
+RX(4 pi) == I:      True

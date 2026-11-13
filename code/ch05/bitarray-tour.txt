@@ -1,0 +1,6 @@
+register names: ['meas']
+num_bits: 3  num_shots: 8
+shot by shot: ['010', '011', '111', '110', '010', '110', '110', '011']
+as integers:  {2: 2, 3: 2, 6: 3, 7: 1}
+qubit 2 alone: {'0': 4, '1': 4}
+qubits 1,0:    {'10': 5, '11': 3}

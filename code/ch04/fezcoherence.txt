@@ -1,0 +1,3 @@
+T1 (us): min   27.1   median  144.9   max  274.4
+T2 (us): min    6.0   median   88.0   max  302.8
+Qubits with T2 > T1: 23 of 156

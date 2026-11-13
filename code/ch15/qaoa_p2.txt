@@ -1,0 +1,12 @@
+p = 1: expected cut = 4.5999, ratio = 0.7666
+  (b[0..p-1], g[0..p-1]) = [1.234 0.582]
+  most frequent bitstrings (q4...q0):
+    10010:  244 shots, cut = 6
+    01101:  237 shots, cut = 6
+  shots giving the maximum cut: 0.240
+p = 2: expected cut = 5.3363, ratio = 0.8894
+  (b[0..p-1], g[0..p-1]) = [1.054 1.214 0.59  0.916]
+  most frequent bitstrings (q4...q0):
+    01101:  598 shots, cut = 6
+    10010:  579 shots, cut = 6
+  shots giving the maximum cut: 0.589

@@ -1,0 +1,9 @@
+amplitudes      : [0.6+0.j  0. +0.8j]
+valid state?    : True
+probabilities   : [0.36 0.64]
+[1, 1] valid?   : False
+[1, 1]/sqrt(2)? : True
+psi2 amplitudes : [ 0.373 +0.47j   -0.6267+0.4973j]
+psi2 probs      : [0.36 0.64]
+psi == psi2     : False
+psi.equiv(psi2) : True

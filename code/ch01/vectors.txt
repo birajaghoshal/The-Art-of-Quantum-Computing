@@ -1,0 +1,8 @@
+2u + 3v           = [3.5355+0.j     0.    -0.7071j]
+np.vdot(u, w)     = (2.1213-0.7071j)
+np.dot(u, w)      = (0.7071+0.7071j) (no conj!)
+np.vdot(w, u)     = (2.1213+0.7071j)
+np.vdot(u, v)     = 0j
+norm of w         = 2.4495
+normalised w      = [0.8165+0.j     0.4082+0.4082j]
+its norm          = 1.0000

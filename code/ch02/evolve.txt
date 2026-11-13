@@ -1,0 +1,9 @@
+H unitary? True   S unitary? True
+after H        : [ 0.9899+0.j -0.1414+0.j]
+  probabilities: [0.98 0.02]
+after S, then H: [0.4243+0.5657j 0.4243-0.5657j]
+  probabilities: [0.5 0.5]
+undone         : [0.6+0.j 0.8+0.j]
+equal to psi?  : True
+M unitary? False   valid after M? False
+sum of |amplitudes|^2 after M: 2.6000

@@ -1,0 +1,4 @@
+COBYLA          final E = -1.5206 after 60 calls
+SPSA            final E = -1.5128 after 120 calls
+Param-shift GD  final E = -1.5017 after 120 calls
+exact ground energy = -1.5207

@@ -1,0 +1,7 @@
+median sx error:      0.00023
+median cz error:      0.00382
+median readout error: 0.0076
+cz pairs flagged unusable (directed): 14
+chance that   10 median cz gates all succeed: 0.962
+chance that  100 median cz gates all succeed: 0.682
+chance that 1000 median cz gates all succeed: 0.022

@@ -1,0 +1,2 @@
+Fidelity of (q0, q3) with a Bell pair, before: 0.250
+Fidelity of (q0, q3) with a Bell pair, after : 1.000

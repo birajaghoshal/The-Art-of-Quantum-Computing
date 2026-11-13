@@ -1,0 +1,7 @@
+mutant            ZZ      XX      XY   state unitary
+original        pass    pass    pass    pass    pass
+swapped cx      KILL    KILL    KILL    KILL    KILL
+half angle      KILL    pass    KILL    KILL    KILL
+missing S       pass    KILL    KILL    KILL    KILL
+S to Sdg        pass    pass    KILL    KILL    KILL
+wrong qubit     pass    pass    pass    pass    KILL

@@ -1,0 +1,5 @@
+theta=2.1673 phi=-5.4425 lam=3.4329 global phase=1.4591
+exact match (with phase): True
+exact match (no phase):   False
+equiv (no phase):         True
+ZSX form: {'rz': 3, 'sx': 2}  equiv: True

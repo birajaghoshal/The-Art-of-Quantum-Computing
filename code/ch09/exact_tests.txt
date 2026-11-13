@@ -1,0 +1,5 @@
+RZ == P        : False
+RZ equiv P     : True
+Global phase   : -0.4000 rad
+|+> equiv |->  : False
+|-> equiv -|-> : True

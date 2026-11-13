@@ -1,0 +1,4 @@
+kernel shape: (56, 56)
+diagonal all 1: True
+symmetric: True
+rank: 16

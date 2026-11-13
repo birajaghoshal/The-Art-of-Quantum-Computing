@@ -1,0 +1,6 @@
+input (q1 q0) -> output (q1 q0)
+     00      ->      00
+     01      ->      11
+     10      ->      10
+     11      ->      01
+Matrix equals Equation (7.3): True

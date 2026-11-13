@@ -1,0 +1,4 @@
+training set: (56, 2)  test set: (24, 2)
+class counts (train): [28 28]
+logistic regression    train 0.839  test 0.958
+SVM, Gaussian kernel   train 0.893  test 1.000

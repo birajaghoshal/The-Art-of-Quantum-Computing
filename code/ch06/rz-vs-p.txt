@@ -1,0 +1,6 @@
+RZ diagonal: [(0.8253-0.5646j), (0.8253+0.5646j)]
+P  diagonal: [(1+0j), (0.3624+0.932j)]
+RZ == P:                   False
+RZ == exp(-i lam/2) * P:   True
+RZ equiv P:                True
+states equal: False   states equiv: True

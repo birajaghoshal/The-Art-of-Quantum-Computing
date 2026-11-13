@@ -1,0 +1,4 @@
+qubit 0 waits 1608 ns in superposition
+X gates inserted by the DD pass: 2
+no DD: average P(qubit 0 = 0) = 0.6186
+XX DD: average P(qubit 0 = 0) = 1.0000

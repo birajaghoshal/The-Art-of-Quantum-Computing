@@ -1,0 +1,7 @@
+parameters: ParameterView([Parameter(θ)])
+result shape: (5,)  shots each: 400
+θ = 0.000  P(1) measured 0.000  theory 0.000
+θ = 0.785  P(1) measured 0.110  theory 0.146
+θ = 1.571  P(1) measured 0.500  theory 0.500
+θ = 2.356  P(1) measured 0.880  theory 0.854
+θ = 3.142  P(1) measured 1.000  theory 1.000

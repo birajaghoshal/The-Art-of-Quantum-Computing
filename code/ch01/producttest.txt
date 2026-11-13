@@ -1,0 +1,5 @@
+kron([1,0],[s,s])    det = 0.0000  product? True
+[0.5,0.5,0.5,0.5]    det = 0.0000  product? True
+[s,0,0,s]            det = 0.5000  product? False
+[0.6,0,0,0.8]        det = 0.4800  product? False
+[0.5,0.5,0.5,-0.5]   det = 0.5000  product? False

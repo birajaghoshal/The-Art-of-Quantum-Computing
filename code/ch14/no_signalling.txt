@@ -1,0 +1,4 @@
+Alice: nothing   Bob's matrix: [[0.5, 0.0], [0.0, 0.5]]
+Alice: rotate    Bob's matrix: [[0.5, 0.0], [0.0, 0.5]]
+Alice: measure Z Bob's matrix: [[0.5, 0.0], [0.0, 0.5]]
+Alice: measure X Bob's matrix: [[0.5, 0.0], [0.0, 0.5]]

@@ -1,0 +1,4 @@
+exact kernel value: 0.9001
+shots =   100: estimate 0.9100 +/- 0.0286
+shots =  1000: estimate 0.9110 +/- 0.0090
+shots = 10000: estimate 0.9022 +/- 0.0030

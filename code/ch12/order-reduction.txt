@@ -1,0 +1,2 @@
+outcomes for a = 2..90:
+{'lucky gcd': 18, 'odd r': 8, 'a^(r/2) = -1': 9, 'success': 54}

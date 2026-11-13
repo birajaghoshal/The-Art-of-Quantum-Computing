@@ -1,0 +1,4 @@
+X^2 = I: True  Y^2 = I: True  Z^2 = I: True
+XY = iZ:  True
+XY = -YX: True
+XYZ = iI: True

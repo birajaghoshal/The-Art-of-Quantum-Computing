@@ -1,0 +1,2 @@
+matches permutation: True
+gate counts: {'x': 10, 'mcx': 4}

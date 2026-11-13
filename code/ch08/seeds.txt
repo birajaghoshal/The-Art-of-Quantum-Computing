@@ -1,0 +1,4 @@
+level 1: cz counts [66, 66, 69, 69, 66, 66, 66, 72, 72, 66]
+         min 66 (seed 0), max 72, mean 67.8
+level 3: cz counts [48, 46, 46, 46, 46, 46, 48, 46, 46, 46]
+         min 46 (seed 1), max 48, mean 46.4

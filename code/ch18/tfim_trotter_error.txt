@@ -1,0 +1,6 @@
+Lie-Trotter (order 1)    r= 1: 1-F 9.88e-01  RZZ gates   5
+Suzuki-Trotter (order 2) r= 1: 1-F 9.90e-01  RZZ gates  10
+Lie-Trotter (order 1)    r= 6: 1-F 2.12e-01  RZZ gates  30
+Suzuki-Trotter (order 2) r= 6: 1-F 1.43e-02  RZZ gates  60
+Lie-Trotter (order 1)    r=12: 1-F 4.63e-02  RZZ gates  60
+Suzuki-Trotter (order 2) r=12: 1-F 7.92e-04  RZZ gates 120

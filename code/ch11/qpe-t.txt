@@ -1,0 +1,3 @@
+counts: {'001': 1000}
+estimate: theta = 1/8 = 0.125
+gate counts: {'ct': 7, 'h': 3, 'measure': 3, 'x': 1, 'qft_dg': 1}

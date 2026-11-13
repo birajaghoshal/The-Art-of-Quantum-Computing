@@ -1,0 +1,3 @@
+phase per assignment x = 0..15: [1, 1, 1, 1, 1, -1, 1, 1, 1, 1, -1, 1, 1, 1, 1, 1]
+oracle flips exactly the solutions: True
+oracle size: 9 qubits, {'x': 24, 'ccx': 8, 'mcx': 1}

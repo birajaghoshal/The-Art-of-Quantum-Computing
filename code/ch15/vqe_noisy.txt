@@ -1,0 +1,4 @@
+ideal estimator            E = -1.1373 Ha, error =   0.0 mHa
+ideal sampler, 4000 shots  E = -1.1344 Ha, error =   2.9 mHa
+noisy Aer estimator        E = -1.1245 Ha, error =  12.8 mHa
+noisy sampler, 4000 shots  E = -1.1166 Ha, error =  20.7 mHa

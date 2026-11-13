@@ -1,0 +1,2 @@
+iterations: 2
+most frequent assignments: {'0101': 492, '1010': 460, '0100': 7, '1000': 5}

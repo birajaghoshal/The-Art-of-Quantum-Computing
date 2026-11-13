@@ -1,0 +1,9 @@
+original       exit=0  passed=6  failed=0
+reversed bits  exit=1  passed=3  failed=3
+     failed: test_encode_bits[001]
+     failed: test_encode_bits[100]
+     failed: test_encode_bits[110]
+missing cx     exit=1  passed=5  failed=1
+     failed: test_swap
+phase flip     exit=1  passed=5  failed=1
+     failed: test_ghz_x_parity

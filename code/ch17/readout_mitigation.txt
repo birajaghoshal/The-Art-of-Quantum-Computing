@@ -1,0 +1,4 @@
+calibration circuits used: 8
+diagonal of A: [0.942 0.903 0.893 0.856 0.895 0.867 0.86  0.824]
+raw       P(000)=0.4655 P(111)=0.4044 min=+0.0096 distance=0.1301
+mitigated P(000)=0.4935 P(111)=0.4908 min=+0.0003 distance=0.0158

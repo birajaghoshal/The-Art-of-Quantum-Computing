@@ -1,0 +1,4 @@
+Top level: cz = 9  if_else = 2
+CZ gates hidden inside the if_else blocks: 24
+Flags (f2 f1 f0): {'000': 2946, '001': 781, '011': 197, '111': 76}
+Data (d1 d0):    {'00': 1317, '01': 1254, '10': 1310, '11': 119}

@@ -1,0 +1,7 @@
+distinct 6-qubit lines : 536
+best line  [124, 123, 136, 143, 142, 141]: score 0.0463
+median line score      : 0.1247
+worst line [12, 11, 18, 31, 32, 33]: score 2.0887
+level 1 [0, 1, 2, 3, 4, 5]: score 0.0770
+level 2 [124, 123, 136, 143, 142, 141]: score 0.0463
+level 3 [141, 142, 143, 136, 123, 124]: score 0.0463

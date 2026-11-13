@@ -1,0 +1,8 @@
+ISA operations: {'rz': 6, 'sx': 3, 'measure': 3, 'barrier': 1}
+accepted rolls: 2265 of 3000
+  face 1:  397  (0.175)
+  face 2:  368  (0.162)
+  face 3:  354  (0.156)
+  face 4:  367  (0.162)
+  face 5:  381  (0.168)
+  face 6:  398  (0.176)

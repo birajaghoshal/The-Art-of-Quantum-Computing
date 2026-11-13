@@ -1,0 +1,8 @@
+B^dagger B =
+ [[1. 0.]
+ [0. 1.]]
+c_plus = 0.9899, c_minus = 0.1414
+rebuilt psi = [0.8 0.6]
+equal to psi? True
+sum of squared coefficients = 1.0000
+B^dagger psi = [0.9899 0.1414]

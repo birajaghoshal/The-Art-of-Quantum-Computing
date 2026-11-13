@@ -1,0 +1,12 @@
+python             : 3.13.17
+qiskit             : 2.6.1
+qiskit_aer         : 0.18.0
+qiskit_ibm_runtime : 0.51.0
+numpy              : 2.5.3
+scipy              : 1.18.1
+backend            : fake_fez 1.2.8
+calibration        : 2025-02-26 15:16:25-05:00
+seeds              : {'transpiler': 11, 'simulator': 1234}
+shots              : 4000
+layout             : [124, 123, 136, 143, 142, 141]
+isa_circuit_sha256 : 3b82a74c03430b78

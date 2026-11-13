@@ -1,0 +1,4 @@
+bit flip          final <X> = +1.000   final <Z> = -0.015
+phase flip        final <X> = +0.015   final <Z> = -1.000
+depolarising      final <X> = +0.129   final <Z> = -0.129
+amplitude damping final <X> = +0.358   final <Z> = +0.743

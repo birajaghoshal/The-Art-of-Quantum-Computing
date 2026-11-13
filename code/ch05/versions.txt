@@ -1,0 +1,5 @@
+Python              3.13.17
+qiskit              2.6.1
+qiskit-aer          0.18.0
+qiskit-ibm-runtime  0.51.0
+Matches the book's pinned versions: True

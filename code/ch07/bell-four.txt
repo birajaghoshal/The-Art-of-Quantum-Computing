@@ -1,0 +1,8 @@
+Phi+  amplitudes {'00': 0.707, '11': 0.707}
+Phi-  amplitudes {'00': 0.707, '11': -0.707}
+Psi+  amplitudes {'01': 0.707, '10': 0.707}
+Psi-  amplitudes {'01': -0.707, '10': 0.707}
+Phi+  counts {'00': 491, '11': 509}
+Phi-  counts {'00': 502, '11': 498}
+Psi+  counts {'01': 498, '10': 502}
+Psi-  counts {'01': 463, '10': 537}

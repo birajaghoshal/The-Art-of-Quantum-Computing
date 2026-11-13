@@ -1,0 +1,1 @@
+satisfying assignments (x3 x2 x1 x0): ['0101', '1010']

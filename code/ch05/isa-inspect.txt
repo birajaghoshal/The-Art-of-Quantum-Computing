@@ -1,0 +1,7 @@
+before: {'h': 1, 'barrier': 1, 'measure': 1}
+after:  {'rz': 2, 'sx': 1, 'barrier': 1, 'measure': 1}
+width of ISA circuit: 156 qubits
+virtual qubit 0 placed on physical qubit 0
+  rz [1.5708]
+  sx []
+  rz [1.5708]

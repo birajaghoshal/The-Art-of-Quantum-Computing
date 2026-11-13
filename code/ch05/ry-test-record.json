@@ -1,0 +1,13 @@
+{
+  "experiment": "ry(1.2) single-qubit test",
+  "counts": {
+    "0": 657,
+    "1": 343
+  },
+  "shots": 1000,
+  "seed": 2026,
+  "simulator": "StatevectorSampler",
+  "qiskit": "2.6.1",
+  "python": "3.13.17",
+  "circuit_qasm3": "OPENQASM 3.0;\ninclude \"stdgates.inc\";\nbit[1] meas;\nqubit[1] q;\nry(1.2) q[0];\nbarrier q[0];\nmeas[0] = measure q[0];\n"
+}

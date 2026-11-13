@@ -1,0 +1,4 @@
+first outcome     : 1
+state afterwards  : [0.+0.j 0.+1.j]
+ten more Z results: 1111111111
+X basis, 1000 shots: {'0': 503, '1': 497}

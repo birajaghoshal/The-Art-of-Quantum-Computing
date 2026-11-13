@@ -1,0 +1,6 @@
+public key  (n, e) = (3763, 17)
+private key d      = 1713
+message 2026 -> ciphertext 87
+Alice decrypts     -> 2026
+Eve factors n = 53 x 71, finds d = 1713
+Eve decrypts       -> 2026

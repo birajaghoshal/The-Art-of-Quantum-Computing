@@ -1,0 +1,7 @@
+R(pi/2) =
+ [[ 0. -1.]
+ [ 1.  0.]]
+R(pi/2) v = [-1.  2.]
+R(a) R(b) equals R(a+b)? True
+length before 2.2361, after 2.2361
+R^T R equals I? True

@@ -1,0 +1,8 @@
+call  0: E =  0.67687
+call  1: E =  0.98512
+call  2: E = -0.25370
+call 10: E = -0.99936
+call 28: E = -1.00000
+energy calls used   : 29
+best theta (rad)    : -2.2142
+exact ground energy : -1.00000

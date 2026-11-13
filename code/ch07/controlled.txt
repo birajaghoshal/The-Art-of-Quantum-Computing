@@ -1,0 +1,8 @@
+CZ is symmetric: True
+CZ = H CX H on target: True
+CY = Sdg CX S on target: True
+CRY(pi/3) matrix (real part):
+[[ 1.     0.     0.     0.   ]
+ [ 0.     0.866  0.    -0.5  ]
+ [ 0.     0.     1.     0.   ]
+ [ 0.     0.5    0.     0.866]]

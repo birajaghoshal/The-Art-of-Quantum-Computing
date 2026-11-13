@@ -1,0 +1,3 @@
+Z then Z   : 0 of 2000 atoms come out 'down'
+Z then X   : 992 of 2000 pass the X+ filter
+then Z     : 496 of those 992 come out 'down'

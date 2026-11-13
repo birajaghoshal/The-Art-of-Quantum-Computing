@@ -1,0 +1,9 @@
+identity              equiv  exact
+H X H = Z              True   True
+H Y H = Y              True  False
+S X Sdg = Y            True   True
+T T = S                True   True
+SX SX = X              True   True
+SX = RX(pi/2)          True  False
+H RZ(a) H = RX(a)      True   True
+X Z = Z X              True  False

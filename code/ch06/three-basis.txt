@@ -1,0 +1,3 @@
+<X> from counts +0.720   exact +0.736
+<Y> from counts +0.516   exact +0.503
+<Z> from counts +0.447   exact +0.454

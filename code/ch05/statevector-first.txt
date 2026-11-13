@@ -1,0 +1,11 @@
+dimension: 8
+  |010>  amplitude +0.3536
+  |011>  amplitude +0.3536
+  |110>  amplitude +0.6124
+  |111>  amplitude +0.6124
+probabilities:
+  010: 0.1250
+  011: 0.1250
+  110: 0.3750
+  111: 0.3750
+P(qubit 2 = 1): 0.75

@@ -1,0 +1,2 @@
+kernel matrix size: (56, 56)
+largest difference: 5.6e-16

@@ -1,0 +1,13 @@
+                                          ┌───┐   
+q_0: ───────────────■─────────────■───────┤ H ├─X─
+                    │       ┌───┐ │P(π/2) └───┘ │ 
+q_1: ──────■────────┼───────┤ H ├─■─────────────┼─
+     ┌───┐ │P(π/2)  │P(π/4) └───┘               │ 
+q_2: ┤ H ├─■────────■───────────────────────────X─
+     └───┘                                        
+n = 2: my QFT equals QFTGate? True
+n = 3: my QFT equals QFTGate? True
+n = 4: my QFT equals QFTGate? True
+n = 5: my QFT equals QFTGate? True
+QFTGate(3) equals DFT matrix? True
+my QFT without swaps equals F? False

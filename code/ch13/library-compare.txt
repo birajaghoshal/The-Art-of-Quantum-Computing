@@ -1,0 +1,3 @@
+same up to global phase: True
+      hand-built: depth  57, CNOTs 28
+ grover_operator: depth  57, CNOTs 28

@@ -1,0 +1,3 @@
+Syndrome (s1 s0): {'10': 500}
+Qubits used: 4 instead of 5
+Active reset (after, before): {'00': 234, '01': 266}
